@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\JuanCamilo\\Desktop\\FacebookCallerExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\JuanCamilo\\Desktop\\FacebookCallerExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\researcher\\Desktop\\FacebookLoginExample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\researcher\\Desktop\\FacebookLoginExample\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]

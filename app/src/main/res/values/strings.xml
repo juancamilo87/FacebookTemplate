@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Facebook Template</string>
+    <!--TODO: Change app id if you are not using the app provided on the course-->
+    <string name="app_id">154157364955208</string>
+</resources>
